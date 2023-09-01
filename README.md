@@ -1,7 +1,9 @@
 
 # Data-Professionals-Survey-Analysis-PowerBI-Project
 
-##### Power BI dashboard provides a comprehensive analysis of a Data Professionals' survey, offering insights into respondent demographics, including their number, average age, geographic distribution, job titles, salaries, preferred programming languages, happiness scores, and gender diversity. Created this Power BI dashboard with the help of Alex – The Analyst's YouTube tutorial Video. 
+##### Power BI dashboard provides a comprehensive analysis of a Data Professionals' survey, offering insights into respondent demographics, including their number, average age, geographic distribution, job titles, salaries, preferred programming languages, happiness scores, and gender diversity. 
+
+##### I've cleaned and transformed the data in Power Query and then loaded the data to Power BI, wherein created this dashboard. The whole project was done with the help of Alex Freberg's YouTube tutorial video.
 
 #### Key Insights: 
 Based on the survey data of 630 professionals, we understand that – 
