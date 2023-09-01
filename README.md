@@ -1,2 +1,10 @@
 # Data-Professionals-Survey-Analysis-PowerBI-Project
-Dashboard of Data Professionals' survey analysis: Understanding the number of respondents, their average age, their country, job titles, their salaries and favourite programming laungauge along with their happiness score and the gender ratio. 
+Power BI dashboard provides a comprehensive analysis of a Data Professionals' survey, offering insights into respondent demographics, including their number, average age, geographic distribution, job titles, salaries, preferred programming languages, happiness scores, and gender diversity. Created this Power BI dashboard with the help of Alex – The Analyst's YouTube tutorial Video. 
+
+Key Insights: 
+Based on the survey data of 630 professionals, we understand that – 
+* The average of respondents is 30 years
+* Their Happiness score is 5.74/10 w.r.t work/life balance
+* Data Scientists are highest paid with an average of 94k and then Data Engineers with 65K.
+* Python is the most preferred programming language by data professionals
+* USA, India and Other nations are countries where more number of respondents reside 
